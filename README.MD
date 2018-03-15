@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/jsenon/kubetools.svg?style=svg&circle-token=a8df7aa6e5450279a39e313b309dfd869472c9a5)](https://circleci.com/gh/jsenon/kubetools)
+[![CircleCI](https://circleci.com/gh/jsenon/kubetools.svg?style=svg)](https://circleci.com/gh/jsenon/kubetools)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jsenon/kubetools)](https://goreportcard.com/report/github.com/jsenon/kubetools)
 
 # Kubetools
